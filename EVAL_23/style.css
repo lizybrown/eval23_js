@@ -1,0 +1,11 @@
+.linear-gradient {
+    width: 70%;
+    height: 100px  ;
+    background: linear-gradient(to right, blue, rgb(247, 233, 34));
+}
+
+p{
+
+    width: 40%;
+    margin-top: 6rem;
+}
